@@ -4,7 +4,7 @@ This repository presents a project focused on the identification of **hub genes 
 
 ---
 
-## 📁 Repository Details
+## 📁 Details
 
 **Title**: Identification of Potential Biomarkers and Pathways in Rheumatoid Arthritis via Gene Expression and PPI Network Analysis  
 **Author**: Dhanyashri A/P Guruparan  
@@ -43,6 +43,12 @@ Rheumatoid Arthritis (RA) is a chronic autoimmune inflammatory disorder primaril
 | **DAVID**            | GO & KEGG pathway enrichment analysis                          |
 | **STRING**           | Protein–protein interaction network construction               |
 | **Cytoscape + CytoHubba** | Hub gene extraction via MCC (Maximal Clique Centrality) |
+
+![GEO2R](https://img.shields.io/badge/GEO2R-DEG%20Analysis-blue)
+![DAVID](https://img.shields.io/badge/DAVID-Enrichment-success)
+![STRING](https://img.shields.io/badge/STRING-PPI-yellow)
+![Cytoscape](https://img.shields.io/badge/Cytoscape-Network-green)
+![CytoHubba](https://img.shields.io/badge/CytoHubba-HubGeneFinder-lightgrey)
 
 ---
 
