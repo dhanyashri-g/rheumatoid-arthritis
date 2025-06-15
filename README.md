@@ -10,7 +10,7 @@ This repository presents a project focused on the identification of **hub genes 
 **Author**: Dhanyashri A/P Guruparan  
 **Institution**: Management & Science University (MSU), Malaysia  
 **Degree**: Bachelor of Bioinformatics (Hons)  
-**Year**: 2023  **Project Type**: Article
+**Year**: 2023
 **Keywords**: rheumatoid-arthritis, DEG, hub-genes, PPI, GEO, DAVID, Cytoscape, bioinformatics, disease-biomarker
 
 ---
